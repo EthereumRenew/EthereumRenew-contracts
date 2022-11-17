@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.4.26+commit.4563c3fc"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {},
+			"title": "SafeMath\r"
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ETHREN.sol": "SafeMath"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ETHREN.sol": {
+			"keccak256": "0xb07cd0b395db7420026876c3d195ffc63d9c65b56dc01c0459c93011d3cf67ac",
+			"urls": [
+				"bzzr://86785d43ab70da624e0abd78cad36f116ea13f18c627ee8bbbe36e0c53b5625c"
+			]
+		}
+	},
+	"version": 1
+}
